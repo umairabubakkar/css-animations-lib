@@ -1,0 +1,13 @@
+@import 'src/fade.css';
+@import 'src/slide.css';
+@import 'src/bounce.css';
+@import 'src/rotate.css';
+
+/* Utility classes */
+.animate-delay-100 { animation-delay: 100ms; }
+.animate-delay-200 { animation-delay: 200ms; }
+.animate-delay-300 { animation-delay: 300ms; }
+.animate-delay-500 { animation-delay: 500ms; }
+.animate-duration-fast { animation-duration: 0.2s; }
+.animate-duration-slow { animation-duration: 0.8s; }
+.animate-infinite { animation-iteration-count: infinite; }

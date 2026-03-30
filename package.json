@@ -1,0 +1,7 @@
+{
+  "name": "css-animations-lib",
+  "version": "1.0.0",
+  "description": "Lightweight CSS animation library",
+  "main": "animations.css",
+  "license": "MIT"
+}
